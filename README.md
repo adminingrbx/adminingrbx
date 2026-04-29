@@ -85,42 +85,6 @@ Focus:          Games, systems, communities, automation
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=adminingrbx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A2FF&icon_color=00A2FF" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adminingrbx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A2FF" />
-
-<br/><br/>
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=adminingrbx&theme=tokyonight&hide_border=true&background=0D1117&ring=00A2FF&fire=00A2FF&currStreakLabel=00A2FF" />
-
-<br/><br/>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=adminingrbx&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00A2FF&line=5865F2&point=FFFFFF" />
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=adminingrbx&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12" />
-
-</div>
-
----
-
-## 💬 Contact
-
-<div align="center">
-
-**Discord:** `admining`
-
-<br/>
 
 <a href="https://discord.gg/TYN2EFm8ta">
   <img src="https://img.shields.io/badge/Join_My_Studio-00A2FF?style=for-the-badge&logo=discord&logoColor=white" />

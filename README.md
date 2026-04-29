@@ -48,7 +48,6 @@
 
 </div>
 
----
 
 ## 🔗 Discord Servers
 
@@ -65,8 +64,6 @@
 </a>
 
 </div>
-
----
 
 <div align="center">
 

@@ -19,7 +19,6 @@
 ## 🎮 Tech Stack
 
 | Platform | Technologies |
-|----------|--------------|
 | 🟢 **Roblox** | Lua(U), Roblox Studio |
 | 🔵 **Unity** | C#, Unity Engine |
 | 🐍 **Web / Backend** | Python, JavaScript |
@@ -29,7 +28,6 @@
 ## 📊 Stats
 
 | Metric | Value |
-|--------|-------|
 | 👀 **Total Visits** | `6B+` |
 | 🎮 **Platforms** | Roblox + Unity |
 | 💬 **Discord** | `admining` |

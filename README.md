@@ -24,28 +24,100 @@
 
 </div>
 
----
-
 ## ⚡ About Me
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00A2FF&center=true&vCenter=true&width=700&lines=Solo+Developer;Roblox+%2B+Unity+Creator;6B%2B+Visits;English+%2F+Russian" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2200&pause=700&color=00F5FF&center=true&vCenter=true&width=900&lines=%3E+booting+A_DMINING+neural+profile...;%3E+loading+cyberpunk+developer+interface...;%3E+syncing+Roblox+%2B+Unity+systems...;%3E+injecting+6B%2B+visits+into+data-core...;%3E+status%3A+ONLINE" />
+
+<br>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00F5FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/MODE-SOLO%20DEVELOPER-FF00FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/CORE-ROBLOX%20%2B%20UNITY-8A2BE2?style=for-the-badge&labelColor=0D1117" />
 
 <br><br>
 
-| Key | Value |
-|---|---|
-| **Developer** | `A_DMINING` |
-| **Role** | `Solo Developer` |
-| **Platforms** | `Roblox + Unity` |
-| **Total Visits** | `6B+` |
-| **Languages** | `English / Russian` |
-| **Discord** | `admining` |
-| **Focus** | `Games, systems, communities, automation` |
+```text
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                      [ A_DMINING :: DATA PROFILE ]                 ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃ > USERNAME   :: A_DMINING                                          ┃
+┃ > ROLE       :: SOLO DEVELOPER                                     ┃
+┃ > ENGINES    :: ROBLOX • UNITY                                     ┃
+┃ > LANGUAGES  :: LUAU • C# • PYTHON • JAVASCRIPT                    ┃
+┃ > REACH      :: 6B+ TOTAL VISITS                                   ┃
+┃ > SPEECH     :: ENGLISH • RUSSIAN                                  ┃
+┃ > CONTACT    :: DISCORD :: admining                                ┃
+┃ > FOCUS      :: GAMES • SYSTEMS • COMMUNITIES • AUTOMATION         ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### `◉ IDENTITY.exe`
+
+```text
+alias      : A_DMINING
+class      : solo developer
+channel    : admining
+state      : active
+```
+
+</td>
+<td align="center" width="33%">
+
+### `◉ SYSTEMS.sys`
+
+```text
+platform_1 : Roblox
+platform_2 : Unity
+stack      : LuaU / C#
+backend    : Python / JS
+```
+
+</td>
+<td align="center" width="33%">
+
+### `◉ STATS.log`
+
+```text
+traffic    : 6B+
+lang_1     : English
+lang_2     : Russian
+focus      : building
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/NEURAL%20FOCUS-GAMES-00F5FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/NEURAL%20FOCUS-SYSTEMS-FF00FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/NEURAL%20FOCUS-COMMUNITIES-8A2BE2?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/NEURAL%20FOCUS-AUTOMATION-00FFA6?style=for-the-badge&labelColor=0D1117" />
+
+<br><br>
+
+```text
+[SYS.LOG]
+> initializing holo-interface...
+> decrypting developer signature...
+> loading visit metrics..................... OK
+> syncing Roblox modules.................... OK
+> syncing Unity pipelines................... OK
+> opening communication port: admining...... OK
+> final status.............................. ACCESS GRANTED
+```
 
 </div>
----
+
 
 ## 🧠 Tech Stack
 

@@ -1,8 +1,9 @@
-## 📚 Languages & tools
+**A_DMINING** 🇺🇸/🇷🇺  
+"not making shit games, only shit games making robux"  
 
-| Language | Level | Badge |
-|----------|-------|-------|
-| Lua (Luau) | Senior+ | ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua) |
-| C# | Junior+ | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp) |
-| Python | Middle | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) |
-| JavaScript | Middle+ | ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript) |
+`Lua(U)` `C#` `Python` `JS`  
+Roblox · Unity · 6B+ visits  
+
+𓆟 admining 𓆟  
+
+[Studio](https://discord.gg/TYN2EFm8ta) · [MGC](https://discord.gg/8r24eTrpMc) · [DR](https://discord.gg/5bcw2WrM)

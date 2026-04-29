@@ -20,8 +20,6 @@
 
 **Game developer focused on Roblox, Unity, backend systems, tools, and large-scale game communities.**
 
-`LuaU` · `C#` · `Python` · `JavaScript` · `Roblox Studio` · `Unity Engine`
-
 </div>
 
 

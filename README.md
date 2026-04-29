@@ -67,47 +67,6 @@ Focus:          Games, systems, communities, automation
 
 ---
 
-## 🎮 Platforms
-
-| Platform | Stack | Focus |
-|---|---|---|
-| 🟦 **Roblox** | LuaU, Roblox Studio | Game systems, gameplay, communities |
-| 🟪 **Unity** | C#, Unity Engine | Game development, prototyping |
-| 🐍 **Backend / Tools** | Python, JavaScript | Automation, bots, utilities |
-
----
-
-## 📊 Stats
-
-<div align="center">
-
-| Metric | Value |
-|---|---:|
-| 👀 **Total Visits** | `6B+` |
-| 🎮 **Platforms** | `Roblox + Unity` |
-| 💬 **Discord** | `admining` |
-| 🧠 **Role** | `Solo Developer` |
-| 🌍 **Languages** | `English / Russian` |
-
-</div>
-
----
-
-## 🚀 What I Build
-
-<div align="center">
-
-| Area | Description |
-|---|---|
-| 🎮 **Games** | Roblox and Unity projects with scalable gameplay systems |
-| 🧩 **Systems** | Game mechanics, progression, monetization, tools |
-| 🤖 **Automation** | Discord bots, backend scripts, workflow tools |
-| 🌐 **Communities** | Discord servers, game communities, live player ecosystems |
-
-</div>
-
----
-
 ## 🔗 Discord Servers
 
 <div align="center">

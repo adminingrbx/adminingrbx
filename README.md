@@ -28,8 +28,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2200&pause=700&color=00F5FF&center=true&vCenter=true&width=900&lines=%3E+booting+A_DMINING+neural+profile...;%3E+loading+cyberpunk+developer+interface...;%3E+syncing+Roblox+%2B+Unity+systems...;%3E+injecting+6B%2B+visits+into+data-core...;%3E+status%3A+ONLINE" />
-
 <br>
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00F5FF?style=for-the-badge&labelColor=0D1117" />

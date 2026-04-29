@@ -85,15 +85,6 @@ Focus:          Games, systems, communities, automation
 
 ---
 
-
-<a href="https://discord.gg/TYN2EFm8ta">
-  <img src="https://img.shields.io/badge/Join_My_Studio-00A2FF?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:7C3AED,50:5865F2,100:00A2FF&section=footer" />

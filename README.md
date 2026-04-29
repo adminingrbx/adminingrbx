@@ -45,10 +45,10 @@
     <img src="https://img.shields.io/badge/My_Studio-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://discord.gg/8r24eTrpMc">
-    <img src="https://img.shields.io/badge/MGC-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Modded_Games_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://discord.gg/5bcw2WrM">
-    <img src="https://img.shields.io/badge/DR-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Dead_Rails_Games-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 

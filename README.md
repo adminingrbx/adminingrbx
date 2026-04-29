@@ -28,15 +28,38 @@
 
 ## ⚡ About Me
 
-```txt
-Developer:      A_DMINING
-Role:           Solo Developer
-Platforms:      Roblox + Unity
-Total Visits:   6B+
-Languages:      English / Russian
-Discord:        admining
-Focus:          Games, systems, communities, automation
-```
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 👨‍💻 Developer Profile
+
+**Name:** `A_DMINING`  
+**Role:** `Solo Developer`  
+**Discord:** `admining`
+
+</td>
+<td align="center" width="50%">
+
+### 🌍 Overview
+
+**Platforms:** `Roblox + Unity`  
+**Total Visits:** `6B+`  
+**Languages:** `English / Russian`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+![Focus](https://img.shields.io/badge/Focus-Games%2C%20Systems%2C%20Communities%2C%20Automation-00A2FF?style=for-the-badge)
+![Role](https://img.shields.io/badge/Role-Solo%20Developer-5865F2?style=for-the-badge)
+![Visits](https://img.shields.io/badge/Visits-6B%2B-7C3AED?style=for-the-badge)
+
+</div>
 
 ---
 

@@ -54,12 +54,6 @@
 
 ---
 
-## 💀 Quote
-
-> *"I'm not making shit games, but only shit games making robux"*
-
----
-
 ## ⚡ GitHub Activity
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=adminingrbx&show_icons=true&theme=tokyonight)
